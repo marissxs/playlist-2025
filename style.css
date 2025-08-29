@@ -1,13 +1,27 @@
-body{
-    color:blueviolet;
-    background-color: black;
-    font-family:"roboto condensed",
-    sans-serif;
+body {
+color: white;
+background-color: black;
+font-family: "Roboto Condensed", sans-serif;
 }
-.chamada {
-    background-color: hotpink;
-    padding-bottom: 88px;
-    padding-top: 80px;
-    display: flex;
-    justify-content: center;
+section {
+background: rgb(89, 206, 113);
+padding-bottom: 80px;
+padding-top: 80px;
+display: flex;
+justify-content: center;
+}
+.chamada-texto{
+margin-right: 5%;
+}
+img{
+height: 200px;
+}
+.categoria-videos{
+display: flex;
+overflow-x: auto;
+
+gap
+:10px
+;
+
 }
